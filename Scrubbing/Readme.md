@@ -16,5 +16,5 @@ From the source data, we were required to answer the questions enumerated below
 5.	Validate the price in prod_price. Remove any rows that are obviously wrong.
 6.	How many missing values are there?
 7.	Drop the column with missing values
-Click here for the source data.
+Click [here](https://docs.google.com/document/d/1c_1nSJk3s8rQSOppg9Mc4Yq5A0UYYrvw5IFhpB1R5Ss/edit) for the source data.
 
