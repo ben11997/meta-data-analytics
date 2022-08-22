@@ -27,7 +27,7 @@ How many missing values are there?
 
 Drop the column with missing values
 
-Click [here](https://docs.google.com/document/d/1c_1nSJk3s8rQSOppg9Mc4Yq5A0UYYrvw5IFhpB1R5Ss/edit) for the source data.
+Click [here](https://drive.google.com/file/d/1PwlFjyaooOL0RQU0t2-4CGD3BOEtspgN/view) for the source data.
 
 **Exploratory**
 
