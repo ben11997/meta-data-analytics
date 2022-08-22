@@ -23,7 +23,7 @@ What are the top ten product titles by total dollar amount made? Display in desc
 
 What is the proportion of returning customers? Store as a variable?
 
-Click [here](https://docs.google.com/document/d/1YRJldX62p49FFeIKr8jJxILY4fgs1F2sU6SfP7OPtyw/edit) for the 
+Click [here](https://drive.google.com/file/d/1PwlFjyaooOL0RQU0t2-4CGD3BOEtspgN/view) for the 
 source data
 
 tool used for exploratory : Python.
